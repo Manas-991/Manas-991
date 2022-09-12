@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manas-991
 - 👀 I’m interested in a whole lot of computer science as of yet but mostly mathematics
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science and ML
+- 💞️ I’m looking to collaborate on Data Science/ DAta Analytics projects
 - 📫 How to reach me www.linkedin.com/in/manas-991-21155a201 or manastiwari2000@gmail.com
 
 <!---
